@@ -77,3 +77,20 @@ body{
     color: white;
     margin: 20px;
 }
+
+
+/* Media Query Start */
+
+@media screen  and ()max-width: 768px) {
+
+    .box{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    
+    
+}
+
+/* Media Query End */
