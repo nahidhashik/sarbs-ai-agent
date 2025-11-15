@@ -1,0 +1,79 @@
+/* google font */
+
+    @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+    .work-sans-font {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* google font */
+body{
+    /* max-width: 1100px; */
+    background-color: rgb(88, 88, 223);
+    /* margin: 10px;
+    border: solid 2px black; */
+}
+
+
+
+.nav-logo{
+
+    text-align: center;
+    /* margin: 20px; */
+}
+
+.nav-logo img{
+    
+    width: 100px;
+    /* margin: 10px; */
+}
+
+.brand-name{
+    text-align: center;
+    font-weight: 700px;
+    color: white;
+    /* margin: 5px;
+    padding: 50px; */
+}
+
+.card-container{
+    /* display: flex;
+    justify-content: center; */
+    /* align-items: center; */
+    /* flex-direction: row; */
+}
+
+.box{
+    background-color: white;
+    /* margin-left: 150px;
+    /* width: 100%; */
+     /* padding: 5px; */
+     text-align: center;
+     margin-top: 10px;
+     padding: 20px;
+   
+}
+
+.ari-container{
+
+    border: solid 2px rgb(115, 109, 201);
+    padding: 5px;
+    font-size: medium;
+    font-weight: 600;
+    color: darkslategray;
+    text-align: justify;
+
+}
+
+.time-stamp{
+    text-align: left;
+}
+
+.footer-text{
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
