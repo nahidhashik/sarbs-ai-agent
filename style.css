@@ -76,6 +76,7 @@ body{
     text-align: center;
     color: white;
     margin: 20px;
+    border: solid 5px white;
 }
 
 
@@ -89,7 +90,12 @@ body{
         margin-right: auto;
     }
 
-    
+    .frame-responsive{
+
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%;
+    }
     
 }
 
